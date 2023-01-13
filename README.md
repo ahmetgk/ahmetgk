@@ -1,4 +1,4 @@
-![github-header-image (1)](https://user-images.githubusercontent.com/113933738/211730914-7b256bfe-31ab-4f40-9df3-2f2cf0b44d54.png)
+![github-header-image](https://user-images.githubusercontent.com/113933738/212384003-c62a9a00-3bc3-45ce-89d0-fe4eea1d0b97.png)
 <h1 align="center">Hi 👋, I'm Ahmet Faruk Gök</h1>
 <h3 align="center">JR. Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
