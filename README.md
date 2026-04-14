@@ -20,13 +20,8 @@
 <a href="https://twitter.com/VolretSoftware" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
-
 <a href="https://instagram.com/volret.tech" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.linkedin.com/in/ahmet-faruk-g%C3%B6k-257131250" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40" />
 </a>
 </p>
 
@@ -46,8 +41,4 @@
 <a href="https://www.microsoft.com/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetgk&show_icons=true&locale=en" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetgk" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetgk&layout=compact" /></p>
